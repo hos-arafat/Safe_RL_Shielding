@@ -11,6 +11,6 @@ This code implementation accompanies the presentation of the paper "Safe Reinfor
 
 ## Usage Instructions
 
-- Navigate to the folder containing the **Pacman_Notebook_Submission.ipynb** Jupyter Notebook
-- [Launch the Jupyter Notebook](https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook##UseJupyter)
+- Navigate to the [```code```](https://github.com/hos-arafat/Safe_RL_Shielding/tree/master/code) folder containing the **Pacman_Notebook_Submission.ipynb** Jupyter Notebook.
+- [Launch the Jupyter Notebook](https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook##UseJupyter).
 - Once the Jupyter Notebook is launched, press "Cell" > "Run All". This will start several Pacman games with a different "maze" / layout. For each layout, Pacman will first play 2 episodes **without** the shield followed by 2 episodes *with* the shield, in order to showcase the difference and the advantages of the shield.
